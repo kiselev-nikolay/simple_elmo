@@ -9,7 +9,7 @@ setup(
         "scikit-learn",
         "h5py",
         "numpy",
-        "tensorflow = 1.15.2",
-        "smart_open > 1.8.1",
+        "tensorflow=1.15.2",
+        "smart_open>1.8.1",
     ],
 )

@@ -3,6 +3,11 @@ Minimal Python code to get vectors from pre-trained ELMo models in TensorFlow.
 
 Based on https://github.com/ltgoslo/simple_elmo
 
+
+# Instalation
+
+`pip install git+https://github.com/machineandme/simple_elmo.git#egg=simple_elmo`
+
 # Usage example
 
 ... ii ll write in next commit
