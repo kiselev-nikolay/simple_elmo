@@ -6,7 +6,7 @@ import re
 import os
 import numpy as np
 import tensorflow as tf
-from bilm import Batcher, BidirectionalLanguageModel, weight_layers
+from simple_elmo.bilm import Batcher, BidirectionalLanguageModel, weight_layers
 from sklearn import preprocessing
 
 

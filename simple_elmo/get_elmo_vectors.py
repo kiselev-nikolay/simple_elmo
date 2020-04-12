@@ -2,7 +2,7 @@
 # coding: utf-8
 
 import argparse
-from elmo_helpers import *
+from simple_elmo.elmo_helpers import *
 from smart_open import open
 import numpy as np
 
